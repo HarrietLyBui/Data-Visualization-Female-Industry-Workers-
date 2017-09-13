@@ -1,4 +1,4 @@
-This program's functions:
+ Program's functions:
 
 - Imports  a CSV file that includes percentage of female who works in the industry sectors around the world from 1980 to 2007. The data provided by International Labour Organization and published on http://www.gapminder.org/data/ .
 - Create scatter plots to visualize trend for the percentage of female who works in the industry sectors over the year
